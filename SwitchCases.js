@@ -80,13 +80,36 @@
 
 
 
-marvel_Heros=[1,2,3,3,4,5,6]
-dc_Heros=[1,2,3,3,4,5,6]
+// marvel_Heros=[1,2,3,3,4,5,6]
+// dc_Heros=[1,2,3,3,4,5,6]
 // // newAyy=marvel_Heros.push(dc_Heros)
 // newAyy=marvel_Heros.concat(dc_Heros)
 // console.log(newAyy)
 
 // Spread Operator
 
-newarray=[...marvel_Heros,...dc_Heros]
-console.log(newarray)
+// newarray=[...marvel_Heros,...dc_Heros]
+// console.log(newarray)
+
+// var a=10
+// var a=20
+// console.log()
+// let a=10
+// a=20
+// console.log(a)
+
+// function aniket(){
+//     console.log("@@@@@",aniket1)
+// }
+
+// let aniket1="aniket"
+// num1=Number(aniket1)
+// console.log(num1)
+
+// a=123456
+
+// b=String(a)
+
+// console.log(typeof(b))
+
+
