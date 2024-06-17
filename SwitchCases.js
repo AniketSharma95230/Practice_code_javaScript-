@@ -112,4 +112,16 @@
 
 // console.log(typeof(b))
 
-
+coding=[1,2,3,4,5,6,7,89,9]
+coding.forEach((element) => {
+    console.log(element)
+});
+// coding.map((element) => {
+//     console.log(element)
+// });
+// for (i of coding){
+//     console.log("111",i)
+// }
+// for (i in coding){
+//     console.log("111",i)
+// }
