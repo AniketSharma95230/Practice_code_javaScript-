@@ -107,21 +107,30 @@
 // console.log(num1)
 
 // a=123456
-
 // b=String(a)
-
 // console.log(typeof(b))
 
-coding=[1,2,3,4,5,6,7,89,9]
-coding.forEach((element) => {
-    console.log(element)
-});
-// coding.map((element) => {
+
+// response=[1,2,3,4,5,5,6,7,8,78]
+// i=0
+// while (response.length > i)  {console.log(i),i++ };
+
+
+// response.forEach((element) => {
+//     if (element.id=="1"){
 //     console.log(element)
+//     }
 // });
-// for (i of coding){
-//     console.log("111",i)
+
+
+// response.map((element) => {
+//    if (element.id=="1"){
+//     console.log(element)
 // }
-// for (i in coding){
+// });
+// for (i of response){
+//     console.log( " 111 ",i)
+// }
+// for (i in response){
 //     console.log("111",i)
 // }
