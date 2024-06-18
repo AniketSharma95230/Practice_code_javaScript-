@@ -128,9 +128,16 @@
 //     console.log(element)
 // }
 // });
+
 // for (i of response){
 //     console.log( " 111 ",i)
 // }
 // for (i in response){
 //     console.log("111",i)
 // }
+
+
+
+// const response=[1,2,3,4,5,5,6,7,8,78]
+// const newnum=response.map((num)=>num*10).map((num)=>num+1).filter((num)=>num>40)
+// console.log(newnum)
